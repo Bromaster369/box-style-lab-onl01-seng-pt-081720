@@ -40,7 +40,6 @@ h4 {
 .column {
   width: 30%;
   display: inline-block;
-  border: solid;
 }
 
 .small {
@@ -56,3 +55,6 @@ h4 {
   width: 303%;
 }
 
+.column img {
+  border: solid;
+}
